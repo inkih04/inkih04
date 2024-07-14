@@ -1,6 +1,6 @@
 # Hello! I'm Víctor 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/inkih04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-your--name--on--linkedin-blue)](https://www.linkedin.com/in/your-name-on-linkedin/)
 
 I am a Computer Science student at the Universitat Politècnica de Catalunya (UPC). I am passionate about software development and always looking to learn new technologies and improve my skills.

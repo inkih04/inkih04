@@ -22,10 +22,7 @@ I am a Computer Science student at the Universitat Politècnica de Catalunya (UP
 
 ## Featured Projects
 
-### [LinguaQuest](https://github.com/inkih04/LinguaQuest)
-<p align="center">
-  <img src="https://github.com/inkih04/LinguaQuest/blob/main/imagesREADME/logo2.png" alt="logo2" width="40" height="40" >
-</p>
+### <span style="display: flex; align-items: center;">[LinguaQuest](https://github.com/inkih04/LinguaQuest) <img src="https://github.com/inkih04/LinguaQuest/blob/main/imagesREADME/logo2.png" alt="logo2" width="40" height="40" ></span>
 LinguaQuest is a small yet powerful application developed with Qt5 and C++ that helps users practice and improve their English vocabulary. 
 
 ### [Project Name 2](Project URL)
@@ -39,6 +36,4 @@ A brief description of the project. What technologies did you use? What did you 
 
 ## Contact
 
-- [Email](mailto:04.diez.v@gmail.com)
-
-Thank you for visiting my profile! Feel free to contact me if you have any questions or just want to connect.
+- [Email](mailto:04.diez.v

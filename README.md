@@ -1,13 +1,13 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# Hello! I'm Víctor 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Follow&style=social)](https://github.com/tu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tu--nombre--en--linkedin-blue)](https://www.linkedin.com/in/tu-nombre-en-linkedin/)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--name--on--linkedin-blue)](https://www.linkedin.com/in/your-name-on-linkedin/)
 
-Soy estudiante de Computer Science en la Universidad Politécnica de Cataluña (UPC). Me apasiona el desarrollo de software y siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
+I am a Computer Science student at the Universitat Politècnica de Catalunya (UPC). I am passionate about software development and always looking to learn new technologies and improve my skills.
 
-## Tecnologías y Herramientas
+## Technologies and Tools
 
-- **Lenguajes de Programación:**
+- **Programming Languages:**
   - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
   - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
   - ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
@@ -15,29 +15,29 @@ Soy estudiante de Computer Science en la Universidad Politécnica de Cataluña (
   - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
   - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
   
-- **Bases de Datos:**
+- **Databases:**
   - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 
-- **Frameworks y Librerías:**
+- **Frameworks and Libraries:**
   - ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&style=flat-square)
 
-## Proyectos Destacados
+## Featured Projects
 
-### [Nombre del Proyecto 1](URL del proyecto)
-Una breve descripción del proyecto. ¿Qué tecnologías utilizaste? ¿Qué aprendiste? ¿Qué problemas resolviste?
+### [Project Name 1](Project URL)
+A brief description of the project. What technologies did you use? What did you learn? What problems did you solve?
 
-### [Nombre del Proyecto 2](URL del proyecto)
-Una breve descripción del proyecto. ¿Qué tecnologías utilizaste? ¿Qué aprendiste? ¿Qué problemas resolviste?
+### [Project Name 2](Project URL)
+A brief description of the project. What technologies did you use? What did you learn? What problems did you solve?
 
-## En Qué Estoy Trabajando Actualmente
+## What I'm Currently Working On
 
-- Mejorando mis habilidades en **CSS** y **HTML**.
-- Explorando nuevas librerías y frameworks de **Python**.
-- Desarrollando una aplicación con **Qt**.
+- Improving my skills in **CSS** and **HTML**.
+- Exploring new libraries and frameworks in **Python**.
+- Developing an application with **Qt**.
 
-## Contacto
+## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/tu-nombre-en-linkedin/)
-- [Correo Electrónico](mailto:tu-email@ejemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/your-name-on-linkedin/)
+- [Email](mailto:04.diez.v@gmail.com)
 
-¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o simplemente quieres conectar.
+Thank you for visiting my profile! Feel free to contact me if you have any questions or just want to connect.

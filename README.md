@@ -31,7 +31,6 @@ This project focuses on optimizing product distribution in a supermarket to maxi
 
 - Improving my skills in **CSS** and **HTML**.
 - Exploring new libraries and frameworks in **Python**.
-- Developing an application with **Qt**.
 
 ## Contact
 

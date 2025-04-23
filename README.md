@@ -16,18 +16,14 @@ I am a Computer Science student at the Universitat Politècnica de Catalunya (UP
 - **Databases:**
   - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 
-- **Frameworks and Libraries:**
-  - ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&style=flat-square)
+**Frameworks and Libraries:**
+- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
+- ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)
 
 ## Featured Projects
 
 ### [SuperMarketDistribution](https://github.com/inkih04/SuperMarketDistribution)
 This project focuses on optimizing product distribution in a supermarket to maximize customer purchases. It was developed as part of the PROP course in the Fall semester
-
-## What I'm Currently Working On
-
-- Improving my skills in **CSS** and **HTML**.
-- Exploring new libraries and frameworks in **Python**.
 
 ## Contact
 

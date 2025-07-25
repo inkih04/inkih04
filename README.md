@@ -30,6 +30,9 @@ This project focuses on optimizing product distribution in a supermarket to maxi
 ### [Notes](https://github.com/inkih04/Notes-App)
 📝 Modern collaborative notes and notebooks web application built with React (frontend) and Django (backend). Features real-time collaboration, Google OAuth authentication, and responsive design. Create, edit, and share your notes seamlessly across devices
 
+### [Sabana](https://github.com/inkih04/Sabana)
+🌾 Complete issue management system inspired by Taiga, built with Next.js + Django. Features modern SPA, full REST API, and traditional web interface with OAuth authentication. ✨ Live demos available
+
 
 ## Contact
 

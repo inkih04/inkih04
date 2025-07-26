@@ -24,15 +24,17 @@ I am a Computer Science student at the Universitat Politècnica de Catalunya (UP
 
 ## Featured Projects
 
-### [SuperMarketDistribution](https://github.com/inkih04/SuperMarketDistribution)
-This project focuses on optimizing product distribution in a supermarket to maximize customer purchases. It was developed as part of the PROP course in the Fall semester
-
 ### [Notes](https://github.com/inkih04/Notes-App)
 📝 Modern collaborative notes and notebooks web application built with React (frontend) and Django (backend). Features real-time collaboration, Google OAuth authentication, and responsive design. Create, edit, and share your notes seamlessly across devices
 
 ### [Sabana](https://github.com/inkih04/Sabana)
 🌾 Complete issue management system inspired by Taiga, built with Next.js + Django. Features modern SPA, full REST API, and traditional web interface with OAuth authentication. ✨ Live demos available
 
+### [Ecomentor](https://github.com/inkih04/Ecomentor)
+EcoMentor - Mobile app for building energy efficiency in Catalonia. React Native + Spring Boot processing 1.3M+ energy certificates with AI recommendations. Academic project (PES - FIB-UPC) following Clean Architecture.
+
+### [SuperMarketDistribution](https://github.com/inkih04/SuperMarketDistribution)
+This project focuses on optimizing product distribution in a supermarket to maximize customer purchases. It was developed as part of the PROP course in the Fall semester
 
 ## Contact
 
